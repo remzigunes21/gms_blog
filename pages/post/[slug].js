@@ -8,6 +8,7 @@ import {
   CommentsForm,
   Comments,
 } from "../../components";
+import { useRouter } from "next/router";
 
 const PostDetails = ({ post }) => {
   const router = useRouter();
