@@ -7,6 +7,7 @@ import {
   Author,
   CommentsForm,
   Comments,
+  Loader,
 } from "../../components";
 import { useRouter } from "next/router";
 
